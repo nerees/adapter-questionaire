@@ -11,3 +11,4 @@
 /docker_dev/logs/nginx/access.log
 /docker_dev/logs/nginx/error.log
 ###< symfony/framework-bundle ###
+/docker_dev/database/data/*.*
